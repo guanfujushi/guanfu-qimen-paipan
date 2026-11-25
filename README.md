@@ -1,8 +1,10 @@
 # 奇门遁甲排盘速断 · guanfu-qimen-paipan
 
-> 一张传统术数盘面的「看图识字」手册——九宫洛书方位表全给，九星（天蓬至天禽）、八门（休生伤杜景死惊开）、八神（值符至九天）、三奇六仪（乙丙丁三奇·戊己庚辛壬癸六仪）四张名词表逐项列出传统类象，另教「三步认盘法」（认九宫背景→认三套转盘→对名
+> 一张传统术数盘面的「看图识字」手册——九宫洛书方位表全给，九星（天蓬至天禽）、八门（休生伤杜景死惊开）、八神（值符至九天）、三奇六仪（乙丙丁三奇·戊己庚辛壬癸六仪）四张名词表逐项列出传统类象，……
 
 **作者：观复居士 ·商务合作：13148728713；微信号：guanfujs**
+
+**English**: Qimen Dunjia chart-reading primer — a 'visual dictionary' for traditional cosmology charts: the complete Luoshu nine-palace orientation table plus reference tables for the nine stars, eight gates, eight deities, and the Three Nobles & Six Instruments, with a three-step chart-recognition method. Cultural reference only.
 
 ---
 
@@ -19,7 +21,7 @@
 3. 零依赖、纯知识方法论包——不联网、不调付费接口。
 
 ```bash
-git clone https://github.com/guanfujushi/guanfu-qimen-paipan.git
+git clone https://github.com/guanfujushi/guanfu-qimen-paipan.git && cp -r guanfu-qimen-paipan ~/.skills/   # 一键下载并装进 skills 目录
 ```
 
 ## 目录结构
@@ -33,6 +35,8 @@ guanfu-qimen-paipan/
 
 ## 联系与合作
 
+- 🤝 **商务合作**：`13148728713`
+- 💬 **微信号**：`guanfujs`
 - 📱 **技能市场**：在技能市场搜索「**观复居士**」，可以看到本系列全部技能
 - 📰 **公众号**：观复的国学笔记（国学 · 命理文化 · AI 内容工程系列更新）
 
