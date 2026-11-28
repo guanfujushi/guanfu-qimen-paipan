@@ -1,5 +1,7 @@
 # 奇门遁甲排盘速断 · guanfu-qimen-paipan
 
+> **English** — Qi Men Dun Jia (奇门遁甲) chart "reading guide" skill for AI agents. Complete lookup tables for the nine palaces, nine stars, eight gates, eight gods and the Three Wonders & Six Instruments, plus a 3-step method to recognize any chart. Teaches how to *read* the chart — no predictions, no verdicts. Free, offline, zero dependencies.
+> **Install** — clone this repo into your agent's skills directory (e.g. `~/.skills/`). Full series catalog: [guanfujushi](https://github.com/guanfujushi/guanfujushi) · SkillHub marketplace: search **观复居士**.
 > 一张传统术数盘面的「看图识字」手册——九宫洛书方位表全给，九星（天蓬至天禽）、八门（休生伤杜景死惊开）、八神（值符至九天）、三奇六仪（乙丙丁三奇·戊己庚辛壬癸六仪）四张名词表逐项列出传统类象，……
 
 **作者：观复居士 ·商务合作：13148728713；微信号：guanfujs**
