@@ -8,7 +8,6 @@
 
 [![SkillHub](https://img.shields.io/badge/下载-SkillHub-orange)](https://www.skillhub.cn/skills/guanfu-qimen-paipan)
 
-**English**: Qimen Dunjia chart-reading primer — a 'visual dictionary' for traditional cosmology charts: the complete Luoshu nine-palace orientation table plus reference tables for the nine stars, eight gates, eight deities, and the Three Nobles & Six Instruments, with a three-step chart-recognition method. Cultural reference only.
 
 ---
 
